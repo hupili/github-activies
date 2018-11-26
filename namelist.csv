@@ -1,43 +1,47 @@
-Course_Code,Student_Name,github_link
-COMM7780,CAI Xuejiao,https://github.com/PepperCai
-COMM7780,CHEN Mengjie,https://github.com/DidoChan
-COMM7780,CHEN Ye,https://github.com/Shinonomee
-COMM7780,DU Jiawei,https://github.com/jasmine-dudu
-COMM7780,FENG Yujin,https://github.com/Catmint1215
-COMM7780,GAO Chao,https://github.com/FLYSTEPHEN
-COMM7780,GU Minyi,https://github.com/guminyi
-COMM7780,HUANG Ting,https://github.com/trista520
-COMM7780,HUANG Xin,https://github.com/Rita0719
-COMM7780,HUANG Yangming,https://github.com/Wong-Ming
-COMM7780,LI Chenxi,https://github.com/ConnorLi96
-COMM7780,LIN Huiqing,https://github.com/18408532
-COMM7780,LIN Yitong,https://github.com/graceyit
-COMM7780,LIU Cong,https://github.com/clairelau0108
-COMM7780,LUO Yi,https://github.com/hakutoccino
-COMM7780,XIE Jieyi,https://github.com/JIEYI22
-COMM7780,XU Haotian,https://github.com/coolxu8888
-COMM7780,ZENG Huashan,https://github.com/AlexZenghuashan
-COMM7780,ZENG Sining,https://github.com/CelineTsang
-COMM7780,ZENG Xingjie,https://github.com/zacharyzeng
-COMM7780,ZHANG Ning,https://github.com/iiiJenny
-COMM7780,ZHANG Ning,https://github.com/ZhangNingNina/
-COMM7780,ZHANG Shiyu,https://github.com/CathyChang1996
-JOUR7280,HE Wenshu,https://github.com/elusiveburglar
-JOUR7280,JIANG Nixuan,https://github.com/maggie0114
-JOUR7280,JIANG Weiqi,https://github.com/efncij
-JOUR7280,LI Mengyu,https://github.com/ClioLI
-JOUR7280,LI Shengnan,https://github.com/CCCCCecilia
-JOUR7280,LI Yijie,https://github.com/Alana-LI
-JOUR7280,SHI Yuning,https://github.com/shiyuning0987
-JOUR7280,WANG Ziwei,https://github.com/ivywang958
-JOUR7280,XU Kaiwen,https://github.com/kaiwenxu94
-JOUR7280,XU Wen,https://github.com/warrior960812
-JOUR7280,YANG Lin,https://github.com/Yang9305
-JOUR7280,YAO Lan,https://github.com/lullabymia
-JOUR7280,YAO Nuan,https://github.com/yaonuan1995
-JOUR7280,YU Qing,https://github.com/18426425
-JOUR7280,ZHAI Menghan,https://github.com/Zmh951010
-JOUR7280,ZHANG Bohan,https://github.com/ZHANGboh
-JOUR7280,ZHANG Huimin,https://github.com/ZhangHuimin97
-JOUR7280,ZHANG Jingwei,https://github.com/zhangjingwei0512
-JOUR7280,ZHANG Zichun,https://github.com/NicoleZZC
+Course_Code,Student_Name,github_link,remark
+COMM7780,CAI Xuejiao,https://github.com/PepperCai,student
+COMM7780,CHEN Mengjie,https://github.com/DidoChan,student
+COMM7780,CHEN Ye,https://github.com/Shinonomee,student
+COMM7780,DU Jiawei,https://github.com/jasmine-dudu,student
+COMM7780,FENG Yujin,https://github.com/Catmint1215,class helper
+COMM7780,GAO Chao,https://github.com/FLYSTEPHEN,student
+COMM7780,GU Minyi,https://github.com/guminyi,student
+COMM7780,HUANG Ting,https://github.com/trista520,student
+COMM7780,HUANG Xin,https://github.com/Rita0719,student
+COMM7780,HUANG Yangming,https://github.com/Wong-Ming,student
+COMM7780,LI Chenxi,https://github.com/ConnorLi96,class helper
+COMM7780,LIN Huiqing,https://github.com/18408532,student
+COMM7780,LIN Yitong,https://github.com/graceyit,class helper
+COMM7780,LIU Cong,https://github.com/clairelau0108,student
+COMM7780,LUO Yi,https://github.com/hakutoccino,student
+COMM7780,XIE Jieyi,https://github.com/JIEYI22,student
+COMM7780,XU Haotian,https://github.com/coolxu8888,student
+COMM7780,ZENG Huashan,https://github.com/AlexZenghuashan,student
+COMM7780,ZENG Sining,https://github.com/CelineTsang,class helper
+COMM7780,ZENG Xingjie,https://github.com/zacharyzeng,student
+COMM7780,ZHANG Ning,https://github.com/iiiJenny,class helper
+COMM7780,ZHANG Ning,https://github.com/ZhangNingNina/,student
+COMM7780,ZHANG Shiyu,https://github.com/CathyChang1996,class helper
+JOUR7280,HE Wenshu,https://github.com/elusiveburglar,student
+JOUR7280,JIANG Nixuan,https://github.com/maggie0114,student
+JOUR7280,JIANG Weiqi,https://github.com/efncij,student
+JOUR7280,LI Mengyu,https://github.com/ClioLI,student
+JOUR7280,LI Shengnan,https://github.com/CCCCCecilia,student
+JOUR7280,LI Yijie,https://github.com/Alana-LI,student
+JOUR7280,SHI Yuning,https://github.com/shiyuning0987,student
+JOUR7280,WANG Ziwei,https://github.com/ivywang958,student
+JOUR7280,XU Kaiwen,https://github.com/kaiwenxu94,class helper
+JOUR7280,XU Wen,https://github.com/warrior960812,class helper
+JOUR7280,YANG Lin,https://github.com/Yang9305,student
+JOUR7280,YAO Lan,https://github.com/lullabymia,class helper
+JOUR7280,YAO Nuan,https://github.com/yaonuan1995,student
+JOUR7280,YU Qing,https://github.com/18426425,student
+JOUR7280,ZHAI Menghan,https://github.com/Zmh951010,class helper
+JOUR7280,ZHANG Bohan,https://github.com/ZHANGboh,student
+JOUR7280,ZHANG Huimin,https://github.com/ZhangHuimin97,student
+JOUR7280,ZHANG Jingwei,https://github.com/zhangjingwei0512,class helper
+JOUR7280,ZHANG Zichun,https://github.com/NicoleZZC,student
+NA,Cheng Yuanyuan,https://github.com/niegung,sit in
+NA,Hu Pili,https://github.com/hupili,lecturer
+NA,Xu Yucan,https://github.com/ChicoXYC,TA
+NA,Huang Qiongyao,https://github.com/SerenaQYHuang,TA
